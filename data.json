@@ -5,6 +5,10 @@
     "national_id": 1,
     "name": "Bulbasaur",
     "__v": 3,
+    "colors": [
+      "#8BCDB4",
+      "#7DB8A2"
+    ],
     "image_url": "http://pokeapi.co/media/img/1.png",
     "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.  Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/001.png",
@@ -27,6 +31,10 @@
     "national_id": 2,
     "name": "Ivysaur",
     "__v": 4,
+    "colors": [
+      "#7BC5C5",
+      "#0BB1B1"
+    ],
     "image_url": "http://pokeapi.co/media/img/2.png",
     "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.  There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/002.png",
@@ -49,6 +57,10 @@
     "national_id": 3,
     "name": "Venusaur",
     "__v": 5,
+    "colors": [
+      "#5FB0AD",
+      "#559E9B"
+    ],
     "image_url": "http://pokeapi.co/media/img/3.png",
     "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.  There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/003.png",
@@ -70,6 +82,10 @@
     "national_id": 4,
     "name": "Charmander",
     "__v": 3,
+    "colors": [
+      "#F4B185",
+      "#DB9F77"
+    ],
     "image_url": "http://pokeapi.co/media/img/4.png",
     "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/004.png",
@@ -91,6 +107,10 @@
     "national_id": 5,
     "name": "Charmeleon",
     "__v": 3,
+    "colors": [
+      "#EE837B",
+      "#D6766E"
+    ],
     "image_url": "http://pokeapi.co/media/img/5.png",
     "description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.  Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/005.png",
@@ -112,6 +132,10 @@
     "national_id": 6,
     "name": "Charizard",
     "__v": 4,
+    "colors": [
+      "#FFA462",
+      "#E59358"
+    ],
     "image_url": "http://pokeapi.co/media/img/6.png",
     "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.  Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/006.png",
@@ -138,6 +162,10 @@
     "national_id": 7,
     "name": "Squirtle",
     "__v": 3,
+    "colors": [
+      "#73BDCD",
+      "#67AAB8"
+    ],
     "image_url": "http://pokeapi.co/media/img/7.png",
     "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.  Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/007.png",
@@ -159,6 +187,10 @@
     "national_id": 8,
     "name": "Wartortle",
     "__v": 3,
+    "colors": [
+      "#a4b4ee",
+      "#93a2d6"
+    ],
     "image_url": "http://pokeapi.co/media/img/8.png",
     "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.  Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/008.png",
@@ -180,6 +212,10 @@
     "national_id": 9,
     "name": "Blastoise",
     "__v": 3,
+    "colors": [
+      "#83acd5",
+      "#769abf"
+    ],
     "image_url": "http://pokeapi.co/media/img/9.png",
     "description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.  Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
     "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/009.png",
